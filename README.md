@@ -1,0 +1,5 @@
+# WDDN_DotNetCore_Project_CE134_CE102
+.NET Core MVC project
+
+
+KIBBLARY - PET sHOP MANAGEMENT SYSTEM
